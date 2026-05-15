@@ -1,4 +1,4 @@
-## Hi there 👋
+## 안녕하세요 데이터 분석하는 취준생 입니다. 👋
 
 <!--
 **bories97/bories97** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
