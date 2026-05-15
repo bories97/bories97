@@ -1,5 +1,9 @@
 ## 안녕하세요 데이터 분석하는 취준생 입니다. 👋
-#34A7C1
+<div align=center><h1>📚 STACKS</h1></div>
+
+<div align=center> 
+  <img src="https://img.shields.io/badge/java-007396?style=for-the-badge&logo=java&logoColor=white"> 
+</div>
 <!--
 **bories97/bories97** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
